@@ -1,0 +1,930 @@
+,Name,Year,Age,Team,Competition,Appearances,Minutes
+0,Víctor Valdés,2017,35,Middlesbrough,EPL,28,2520
+1,Víctor Valdés,2015,33,Manchester Un..,EPL,2,106
+2,Víctor Valdés,2014,32,Barcelona,SLL,26,2278
+3,Víctor Valdés,2014,32,Barcelona,UCL,6,540
+4,Víctor Valdés,2013,31,Spain,ICC,1,90
+5,Víctor Valdés,2013,31,Barcelona,SLL,31,2790
+6,Víctor Valdés,2013,31,Barcelona,UCL,11,990
+7,Víctor Valdés,2012,30,Barcelona,SLL,35,3150
+8,Víctor Valdés,2012,30,Barcelona,UCL,11,990
+9,Víctor Valdés,2011,29,Barcelona,SLL,32,2880
+10,Víctor Valdés,2011,29,Barcelona,UCL,11,990
+11,Víctor Valdés,2010,28,Barcelona,SLL,38,3420
+12,Víctor Valdés,2010,28,Barcelona,UCL,11,990
+13,Boaz Myhill,2018,35,West Bromwich..,EPL,1,90
+14,Boaz Myhill,2016,33,West Bromwich..,EPL,23,2070
+15,Boaz Myhill,2015,32,West Bromwich..,EPL,11,934
+16,Boaz Myhill,2014,31,West Bromwich..,EPL,14,1260
+17,Boaz Myhill,2013,30,West Bromwich..,EPL,8,720
+18,Boaz Myhill,2011,28,West Bromwich..,EPL,6,540
+19,Boaz Myhill,2010,27,Hull,EPL,27,2430
+20,Costel Pantilimon,2019,32,Nottingham Fo..,EC,44,3960
+21,Costel Pantilimon,2018,31,Deportivo La ..,SLL,6,540
+22,Costel Pantilimon,2018,31,Nottingham Fo..,EC,13,1170
+23,Costel Pantilimon,2017,30,Watford,EPL,2,81
+24,Costel Pantilimon,2016,29,Sunderland,EPL,17,1530
+25,Costel Pantilimon,2015,28,Sunderland,EPL,28,2520
+26,Costel Pantilimon,2014,27,Manchester Ci..,UCL,1,90
+27,Costel Pantilimon,2014,27,Manchester Ci..,EPL,7,630
+28,Lukasz Fabianski,2020,35,West Ham,EPL,24,2029
+29,Lukasz Fabianski,2019,34,West Ham,EPL,38,3420
+30,Lukasz Fabianski,2019,34,Poland,UNL,2,180
+31,Lukasz Fabianski,2018,33,Swansea,EPL,38,3420
+32,Lukasz Fabianski,2017,32,Swansea,EPL,37,3330
+33,Lukasz Fabianski,2018,33,Poland,WC,1,90
+34,Lukasz Fabianski,2016,31,Swansea,EPL,37,3330
+35,Lukasz Fabianski,2015,30,Swansea,EPL,37,3308
+36,Lukasz Fabianski,2016,31,Poland,UEC,4,420
+37,Lukasz Fabianski,2014,29,Arsenal,UCL,2,141
+38,Lukasz Fabianski,2014,29,Arsenal,EPL,1,90
+39,Lukasz Fabianski,2013,28,Arsenal,UCL,1,90
+40,Lukasz Fabianski,2013,28,Arsenal,EPL,4,360
+41,Lukasz Fabianski,2012,27,Arsenal,UCL,1,28
+42,Lukasz Fabianski,2011,26,Arsenal,UCL,5,450
+43,Lukasz Fabianski,2011,26,Arsenal,EPL,14,1260
+44,Lukasz Fabianski,2010,25,Arsenal,UCL,1,90
+45,Lukasz Fabianski,2010,25,Arsenal,EPL,4,360
+46,David Ospina,2020,31,Napoli,ISA,15,1290
+47,David Ospina,2020,31,Napoli,UCL,1,90
+48,David Ospina,2019,30,Colombia,ICA,3,300
+49,David Ospina,2019,30,Napoli,ISA,17,1457
+50,David Ospina,2019,30,Napoli,UCL,6,540
+51,David Ospina,2018,29,Arsenal,UEL,10,900
+52,David Ospina,2018,29,Arsenal,EPL,5,380
+53,David Ospina,2017,28,Arsenal,UCL,8,720
+54,David Ospina,2017,28,Arsenal,EPL,2,142
+55,David Ospina,2018,29,Colombia,WC,4,390
+56,David Ospina,2016,27,Arsenal,UCL,3,270
+57,David Ospina,2016,27,Arsenal,EPL,4,360
+58,David Ospina,2015,26,Colombia,ICA,4,391
+59,David Ospina,2015,26,Arsenal,UCL,3,208
+60,David Ospina,2015,26,Arsenal,EPL,18,1620
+61,David Ospina,2014,25,Nice,FL1,29,2572
+62,David Ospina,2014,25,Colombia,WC,5,445
+63,David Ospina,2013,24,Nice,FL1,26,2298
+64,David Ospina,2012,23,Nice,FL1,37,3263
+65,David Ospina,2011,22,Nice,FL1,35,3091
+66,David Ospina,2010,21,Nice,FL1,37,3276
+67,Petr Cech,2019,37,Arsenal,EPL,7,588
+68,Petr Cech,2019,37,Arsenal,UEL,11,990
+69,Petr Cech,2018,36,Arsenal,UEL,3,270
+70,Petr Cech,2018,36,Arsenal,EPL,34,3040
+71,Petr Cech,2017,35,Arsenal,EPL,35,3098
+72,Petr Cech,2016,34,Arsenal,UCL,5,450
+73,Petr Cech,2016,34,Arsenal,EPL,34,3060
+74,Petr Cech,2015,33,Chelsea,UCL,3,270
+75,Petr Cech,2015,33,Chelsea,EPL,7,606
+76,Petr Cech,2016,34,Czech Republi..,UEC,3,270
+77,Petr Cech,2014,32,Chelsea,UCL,10,828
+78,Petr Cech,2014,32,Chelsea,EPL,34,3060
+79,Petr Cech,2013,31,Chelsea,UEL,9,810
+80,Petr Cech,2013,31,Chelsea,UCL,6,540
+81,Petr Cech,2013,31,Chelsea,EPL,36,3196
+82,Petr Cech,2012,30,Czech Republi..,UEC,4,360
+83,Petr Cech,2012,30,Chelsea,UCL,13,1230
+84,Petr Cech,2012,30,Chelsea,EPL,34,3060
+85,Petr Cech,2011,29,Chelsea,UCL,9,810
+86,Petr Cech,2011,29,Chelsea,EPL,38,3420
+87,Petr Cech,2010,28,Chelsea,UCL,6,512
+88,Petr Cech,2010,28,Chelsea,EPL,34,3021
+89,Michel Vorm,2019,35,Tottenham,EPL,2,180
+90,Michel Vorm,2019,35,Tottenham,UCL,2,99
+91,Michel Vorm,2018,34,Tottenham,UCL,1,90
+92,Michel Vorm,2018,34,Tottenham,EPL,1,90
+93,Michel Vorm,2017,33,Tottenham,EPL,5,415
+94,Michel Vorm,2016,32,Tottenham,UEL,1,90
+95,Michel Vorm,2016,32,Tottenham,EPL,1,90
+96,Michel Vorm,2015,31,Tottenham,UEL,2,180
+97,Michel Vorm,2015,31,Tottenham,EPL,4,356
+98,Michel Vorm,2014,30,Swansea,UEL,4,360
+99,Michel Vorm,2014,30,Swansea,EPL,26,2340
+100,Michel Vorm,2014,30,Netherlands,WC,1,1
+101,Michel Vorm,2013,29,Swansea,EPL,26,2312
+102,Michel Vorm,2012,28,Swansea,EPL,37,3330
+103,Jack Butland,2020,27,Stoke,EC,35,3150
+104,Jack Butland,2019,26,Stoke,EC,45,4050
+105,Jack Butland,2018,25,Stoke,EPL,35,3150
+106,Jack Butland,2017,24,Stoke,EPL,5,450
+107,Jack Butland,2016,23,Stoke,EPL,31,2790
+108,Jack Butland,2015,22,England U21,IEU,3,270
+109,Jack Butland,2015,22,Derby,EC,6,540
+110,Jack Butland,2015,22,Stoke,EPL,3,270
+111,Jack Butland,2014,21,Leeds,EC,16,1440
+112,Jack Butland,2014,21,Barnsley,EC,13,1170
+113,Jack Butland,2014,21,Stoke,EPL,3,225
+114,Jack Butland,2013,20,England U21,IEU,2,180
+115,Steve Harper,2015,40,Hull,EPL,10,853
+116,Steve Harper,2014,39,Hull,EPL,13,1100
+117,Steve Harper,2013,38,Newcastle Uni..,UEL,2,135
+118,Steve Harper,2013,38,Newcastle Uni..,EPL,6,458
+119,Steve Harper,2011,36,Newcastle Uni..,EPL,18,1565
+120,Hugo Lloris,2020,33,Tottenham,EPL,20,1718
+121,Hugo Lloris,2020,33,Tottenham,UCL,4,360
+122,Hugo Lloris,2019,32,Tottenham,EPL,33,2970
+123,Hugo Lloris,2019,32,Tottenham,UCL,11,979
+124,Hugo Lloris,2019,32,France,UNL,2,180
+125,Hugo Lloris,2018,31,Tottenham,UCL,7,630
+126,Hugo Lloris,2018,31,Tottenham,EPL,36,3240
+127,Hugo Lloris,2017,30,Tottenham,UCL,6,540
+128,Hugo Lloris,2017,30,Tottenham,EPL,34,3005
+129,Hugo Lloris,2017,30,Tottenham,UEL,2,180
+130,Hugo Lloris,2018,31,France,WC,6,540
+131,Hugo Lloris,2016,29,Tottenham,UEL,9,810
+132,Hugo Lloris,2016,29,Tottenham,EPL,37,3330
+133,Hugo Lloris,2015,28,Tottenham,UEL,6,537
+134,Hugo Lloris,2015,28,Tottenham,EPL,35,3064
+135,Hugo Lloris,2016,29,France,UEC,7,660
+136,Hugo Lloris,2014,27,Tottenham,UEL,5,450
+137,Hugo Lloris,2014,27,Tottenham,EPL,37,3330
+138,Hugo Lloris,2014,27,France,WC,5,450
+139,Hugo Lloris,2013,26,Tottenham,UEL,5,450
+140,Hugo Lloris,2013,26,Tottenham,EPL,27,2430
+141,Hugo Lloris,2013,26,Lyon,FL1,2,180
+142,Hugo Lloris,2012,25,France,UEC,4,360
+143,Hugo Lloris,2012,25,Lyon,UCL,8,751
+144,Hugo Lloris,2012,25,Lyon,FL1,36,3195
+145,Hugo Lloris,2011,24,Lyon,UCL,8,720
+146,Hugo Lloris,2011,24,Lyon,FL1,37,3330
+147,Hugo Lloris,2010,23,Lyon,UCL,12,1080
+148,Hugo Lloris,2010,23,Lyon,FL1,36,3240
+149,Tom Heaton,2020,34,Aston Villa,EPL,20,1795
+150,Tom Heaton,2019,33,Burnley,EPL,19,1710
+151,Tom Heaton,2018,32,Burnley,EPL,4,306
+152,Tom Heaton,2017,31,Burnley,EPL,35,3150
+153,Tom Heaton,2016,30,Burnley,EC,46,4140
+154,Tom Heaton,2015,29,Burnley,EPL,38,3420
+155,Tom Heaton,2014,28,Burnley,EC,46,4107
+156,Adrián,2020,33,Liverpool,EPL,11,873
+157,Adrián,2020,33,Liverpool,UCL,3,300
+158,Adrián,2018,31,West Ham,EPL,19,1710
+159,Adrián,2017,30,West Ham,EPL,16,1440
+160,Adrián,2016,29,West Ham,EPL,32,2880
+161,Adrián,2015,28,West Ham,EPL,38,3391
+162,Adrián,2014,27,West Ham,EPL,20,1800
+163,Adrián,2013,26,Real Betis,SLL,32,2868
+164,Joel Robles,2020,30,Real Betis,SLL,33,2888
+165,Joel Robles,2019,29,Real Betis,SLL,5,450
+166,Joel Robles,2019,29,Real Betis,UEL,6,540
+167,Joel Robles,2018,28,Everton,UEL,2,180
+168,Joel Robles,2017,27,Everton,EPL,20,1736
+169,Joel Robles,2016,26,Everton,EPL,13,1170
+170,Joel Robles,2015,25,Everton,UEL,1,90
+171,Joel Robles,2015,25,Everton,EPL,7,585
+172,Joel Robles,2014,24,Everton,EPL,2,156
+173,Joel Robles,2013,23,Wigan,EPL,9,810
+174,Joel Robles,2012,22,Rayo Vallecan..,SLL,13,1170
+175,Joel Robles,2010,20,Atletico Madr..,SLL,2,167
+176,Thibaut Courtois,2020,28,Real Madrid,SLL,34,3060
+177,Thibaut Courtois,2020,28,Real Madrid,UCL,6,496
+178,Thibaut Courtois,2019,27,Real Madrid,SLL,27,2430
+179,Thibaut Courtois,2019,27,Real Madrid,UCL,5,450
+180,Thibaut Courtois,2019,27,Belgium,UNL,4,360
+181,Thibaut Courtois,2018,26,Chelsea,UCL,8,720
+182,Thibaut Courtois,2018,26,Chelsea,EPL,35,3150
+183,Thibaut Courtois,2017,25,Chelsea,EPL,36,3240
+184,Thibaut Courtois,2018,26,Belgium,WC,7,630
+185,Thibaut Courtois,2016,24,Chelsea,UCL,3,270
+186,Thibaut Courtois,2016,24,Chelsea,EPL,23,2020
+187,Thibaut Courtois,2015,23,Chelsea,UCL,5,480
+188,Thibaut Courtois,2015,23,Chelsea,EPL,32,2814
+189,Thibaut Courtois,2016,24,Belgium,UEC,5,450
+190,Thibaut Courtois,2014,22,Atletico Madr..,SLL,37,3330
+191,Thibaut Courtois,2014,22,Atletico Madr..,UCL,12,1110
+192,Thibaut Courtois,2014,22,Belgium,WC,5,480
+193,Thibaut Courtois,2013,21,Atletico Madr..,SLL,37,3330
+194,Thibaut Courtois,2012,20,Atletico Madr..,SLL,37,3262
+195,Joe Hart,2019,32,Burnley,EPL,19,1710
+196,Joe Hart,2018,31,West Ham,EPL,19,1710
+197,Joe Hart,2017,30,Torino,ISA,36,3240
+198,Joe Hart,2016,29,Manchester Ci..,UCL,12,1071
+199,Joe Hart,2016,29,Manchester Ci..,EPL,35,3110
+200,Joe Hart,2015,28,Manchester Ci..,UCL,8,720
+201,Joe Hart,2015,28,Manchester Ci..,EPL,36,3240
+202,Joe Hart,2016,29,England,UEC,4,360
+203,Joe Hart,2014,27,Manchester Ci..,UCL,7,630
+204,Joe Hart,2014,27,Manchester Ci..,EPL,31,2790
+205,Joe Hart,2014,27,England,WC,2,180
+206,Joe Hart,2013,26,Manchester Ci..,UCL,6,540
+207,Joe Hart,2013,26,Manchester Ci..,EPL,38,3420
+208,Joe Hart,2012,25,England,UEC,4,390
+209,Joe Hart,2012,25,Manchester Ci..,UCL,6,540
+210,Joe Hart,2012,25,Manchester Ci..,EPL,38,3420
+211,Joe Hart,2011,24,Manchester Ci..,EPL,38,3420
+212,Joe Hart,2010,23,Birmingham,EPL,36,3240
+213,Simon Mignolet,2020,32,Club Brugge,UEL,2,180
+214,Simon Mignolet,2020,32,Club Brugge,UCL,6,540
+215,Simon Mignolet,2018,30,Liverpool,EPL,19,1710
+216,Simon Mignolet,2017,29,Liverpool,EPL,28,2520
+217,Simon Mignolet,2016,28,Liverpool,UEL,15,1350
+218,Simon Mignolet,2016,28,Liverpool,EPL,34,3060
+219,Simon Mignolet,2015,27,Liverpool,UCL,6,540
+220,Simon Mignolet,2015,27,Liverpool,UEL,2,211
+221,Simon Mignolet,2015,27,Liverpool,EPL,36,3224
+222,Simon Mignolet,2014,26,Liverpool,EPL,38,3420
+223,Simon Mignolet,2013,25,Sunderland,EPL,38,3420
+224,Simon Mignolet,2012,24,Sunderland,EPL,29,2573
+225,Simon Mignolet,2011,23,Sunderland,EPL,23,2070
+226,Wayne Hennessey,2020,33,Crystal Palac..,EPL,3,270
+227,Wayne Hennessey,2019,32,Crystal Palac..,EPL,18,1576
+228,Wayne Hennessey,2019,32,Wales,UNL,4,360
+229,Wayne Hennessey,2018,31,Crystal Palac..,EPL,27,2430
+230,Wayne Hennessey,2017,30,Crystal Palac..,EPL,29,2610
+231,Wayne Hennessey,2016,29,Crystal Palac..,EPL,29,2610
+232,Wayne Hennessey,2015,28,Crystal Palac..,EPL,3,215
+233,Wayne Hennessey,2016,29,Wales,UEC,5,450
+234,Wayne Hennessey,2014,27,Yeovil,EC,12,1080
+235,Wayne Hennessey,2014,27,Crystal Palac..,EPL,1,90
+236,Wayne Hennessey,2012,25,Wolverhampton..,EPL,34,3060
+237,Wayne Hennessey,2011,24,Wolverhampton..,EPL,24,2160
+238,Wayne Hennessey,2010,23,Wolverhampton..,EPL,13,1170
+239,Mark Schwarzer,2015,42,Leicester,EPL,6,540
+240,Mark Schwarzer,2014,41,Chelsea,UCL,3,252
+241,Mark Schwarzer,2014,41,Chelsea,EPL,4,360
+242,Mark Schwarzer,2013,40,Fulham,EPL,36,3240
+243,Mark Schwarzer,2012,39,Fulham,EPL,30,2700
+244,Mark Schwarzer,2011,38,Fulham,EPL,31,2790
+245,Mark Schwarzer,2010,37,Fulham,EPL,37,3330
+246,David de Gea,2020,29,Manchester Un..,EPL,37,3360
+247,David de Gea,2020,29,Manchester Un..,UEL,1,90
+248,David de Gea,2019,28,Manchester Un..,EPL,38,3420
+249,David de Gea,2019,28,Manchester Un..,UCL,9,810
+250,David de Gea,2019,28,Spain,UNL,4,360
+251,David de Gea,2018,27,Manchester Un..,UCL,6,540
+252,David de Gea,2018,27,Manchester Un..,EPL,37,3330
+253,David de Gea,2017,26,Manchester Un..,EPL,35,3150
+254,David de Gea,2017,26,Manchester Un..,UEL,3,270
+255,David de Gea,2018,27,Spain,WC,4,390
+256,David de Gea,2016,25,Manchester Un..,UEL,2,180
+257,David de Gea,2016,25,Manchester Un..,UCL,6,540
+258,David de Gea,2016,25,Manchester Un..,EPL,34,3060
+259,David de Gea,2015,24,Manchester Un..,EPL,37,3314
+260,David de Gea,2016,25,Spain,UEC,4,360
+261,David de Gea,2014,23,Manchester Un..,UCL,10,900
+262,David de Gea,2014,23,Manchester Un..,EPL,37,3330
+263,David de Gea,2013,22,Spain U21,IEU,5,450
+264,David de Gea,2013,22,Manchester Un..,UCL,7,630
+265,David de Gea,2013,22,Manchester Un..,EPL,28,2520
+266,David de Gea,2012,21,Manchester Un..,UCL,4,360
+267,David de Gea,2012,21,Manchester Un..,EPL,29,2610
+268,David de Gea,2011,20,Atletico Madr..,SLL,38,3420
+269,David de Gea,2010,19,Atletico Madr..,SLL,19,1710
+270,David de Gea,2010,19,Atletico Madr..,UCL,1,64
+271,Fraser Forster,2020,32,Celtic,UEL,7,630
+272,Fraser Forster,2019,31,Southampton,EPL,1,90
+273,Fraser Forster,2018,30,Southampton,EPL,20,1800
+274,Fraser Forster,2017,29,Southampton,EPL,38,3420
+275,Fraser Forster,2017,29,Southampton,UEL,6,540
+276,Fraser Forster,2016,28,Southampton,EPL,18,1620
+277,Fraser Forster,2015,27,Southampton,EPL,30,2624
+278,Fraser Forster,2014,26,Celtic,UCL,6,540
+279,Fraser Forster,2013,25,Celtic,UCL,8,720
+280,Gerhard Tremmel,2015,36,Swansea,EPL,2,109
+281,Gerhard Tremmel,2014,35,Swansea,UEL,4,360
+282,Gerhard Tremmel,2014,35,Swansea,EPL,12,1080
+283,Gerhard Tremmel,2013,34,Swansea,EPL,14,1108
+284,Gerhard Tremmel,2012,33,Swansea,EPL,1,90
+285,Asmir Begovic,2020,33,AC Milan,ISA,2,128
+286,Asmir Begovic,2020,33,Qarabag FK,UEL,5,450
+287,Asmir Begovic,2019,32,Bournemouth,EPL,24,2160
+288,Asmir Begovic,2018,31,Bournemouth,EPL,38,3420
+289,Asmir Begovic,2017,30,Chelsea,EPL,2,180
+290,Asmir Begovic,2016,29,Chelsea,UCL,5,450
+291,Asmir Begovic,2016,29,Chelsea,EPL,17,1397
+292,Asmir Begovic,2015,28,Stoke,EPL,35,3150
+293,Asmir Begovic,2014,27,Stoke,EPL,32,2880
+294,Asmir Begovic,2014,27,Bosnia and He..,WC,3,270
+295,Asmir Begovic,2013,26,Stoke,EPL,38,3420
+296,Asmir Begovic,2012,25,Stoke,EPL,23,1996
+297,Asmir Begovic,2011,24,Stoke,EPL,28,2520
+298,Asmir Begovic,2010,23,Portsmouth,EPL,9,736
+299,Asmir Begovic,2010,23,Stoke,EPL,4,324
+300,Robert Green,2017,37,Leeds,EC,46,4140
+301,Robert Green,2016,36,Queens Park R..,EC,24,2142
+302,Robert Green,2015,35,Queens Park R..,EPL,36,3184
+303,Robert Green,2014,34,Queens Park R..,EC,48,4329
+304,Robert Green,2013,33,Queens Park R..,EPL,16,1321
+305,Robert Green,2011,31,West Ham,EPL,37,3330
+306,Robert Green,2010,30,West Ham,EPL,38,3403
+307,Brad Guzan,2020,35,Atlanta Unite..,UMLS,2,180
+308,Brad Guzan,2019,34,Atlanta Unite..,UMLS,37,3330
+309,Brad Guzan,2018,33,Atlanta Unite..,UMLS,38,3364
+310,Brad Guzan,2017,32,Atlanta Unite..,UMLS,15,1380
+311,Brad Guzan,2017,32,Middlesbrough,EPL,10,900
+312,Brad Guzan,2016,31,Aston Villa,EPL,28,2520
+313,Brad Guzan,2015,30,Aston Villa,EPL,34,3060
+314,Brad Guzan,2014,29,Aston Villa,EPL,38,3420
+315,Brad Guzan,2013,28,Aston Villa,EPL,36,3240
+316,Brad Guzan,2012,27,Aston Villa,EPL,7,592
+317,Ben Hamer,2020,32,Derby,EC,25,2234
+318,Ben Hamer,2019,31,Huddersfield,EPL,7,553
+319,Ben Hamer,2018,30,Leicester,EPL,4,274
+320,Ben Hamer,2017,29,Leicester,UCL,1,90
+321,Ben Hamer,2016,28,Bristol City,EC,4,360
+322,Ben Hamer,2015,27,Leicester,EPL,9,721
+323,Ben Hamer,2014,26,Charlton,EC,32,2880
+324,Kasper Schmeichel,2020,33,Leicester,EPL,37,3330
+325,Kasper Schmeichel,2019,32,Leicester,EPL,38,3420
+326,Kasper Schmeichel,2019,32,Denmark,UNL,3,270
+327,Kasper Schmeichel,2018,31,Leicester,EPL,33,2966
+328,Kasper Schmeichel,2017,30,Leicester,UCL,8,720
+329,Kasper Schmeichel,2017,30,Leicester,EPL,30,2667
+330,Kasper Schmeichel,2018,31,Denmark,WC,4,390
+331,Kasper Schmeichel,2016,29,Leicester,EPL,38,3420
+332,Kasper Schmeichel,2015,28,Leicester,EPL,24,2160
+333,Kasper Schmeichel,2014,27,Leicester,EC,46,4140
+334,Willy Caballero,2020,38,Chelsea,EPL,4,360
+335,Willy Caballero,2020,38,Chelsea,UCL,1,90
+336,Willy Caballero,2019,37,Chelsea,EPL,2,180
+337,Willy Caballero,2019,37,Chelsea,UEL,2,180
+338,Willy Caballero,2018,36,Chelsea,EPL,3,270
+339,Willy Caballero,2017,35,Manchester Ci..,UCL,5,393
+340,Willy Caballero,2017,35,Manchester Ci..,EPL,17,1451
+341,Willy Caballero,2018,36,Argentina,WC,2,180
+342,Willy Caballero,2016,34,Manchester Ci..,UCL,1,9
+343,Willy Caballero,2016,34,Manchester Ci..,EPL,4,310
+344,Willy Caballero,2015,33,Manchester Ci..,EPL,2,180
+345,Willy Caballero,2014,32,Malaga,SLL,38,3420
+346,Willy Caballero,2013,31,Malaga,SLL,36,3194
+347,Willy Caballero,2013,31,Malaga,UCL,9,810
+348,Willy Caballero,2012,30,Malaga,SLL,28,2403
+349,Willy Caballero,2011,29,Malaga,SLL,15,1347
+350,Vito Mannone,2019,31,Minnesota Uni..,UMLS,35,3150
+351,Vito Mannone,2019,31,Reading,EC,6,540
+352,Vito Mannone,2018,30,Reading,EC,41,3690
+353,Vito Mannone,2017,29,Sunderland,EPL,9,810
+354,Vito Mannone,2016,28,Sunderland,EPL,19,1710
+355,Vito Mannone,2015,27,Sunderland,EPL,10,900
+356,Vito Mannone,2014,26,Sunderland,EPL,29,2567
+357,Vito Mannone,2013,25,Arsenal,UCL,4,360
+358,Vito Mannone,2013,25,Arsenal,EPL,9,810
+359,Vito Mannone,2012,24,Arsenal,UCL,1,65
+360,Vito Mannone,2010,22,Arsenal,UCL,3,270
+361,Vito Mannone,2010,22,Arsenal,EPL,5,450
+362,Ben Foster,2020,37,Watford,EPL,37,3330
+363,Ben Foster,2019,36,Watford,EPL,38,3420
+364,Ben Foster,2018,35,West Bromwich..,EPL,37,3330
+365,Ben Foster,2017,34,West Bromwich..,EPL,38,3420
+366,Ben Foster,2016,33,West Bromwich..,EPL,15,1350
+367,Ben Foster,2015,32,West Bromwich..,EPL,28,2486
+368,Ben Foster,2014,31,West Bromwich..,EPL,24,2148
+369,Ben Foster,2014,31,England,WC,1,90
+370,Ben Foster,2013,30,West Bromwich..,EPL,30,2700
+371,Ben Foster,2012,29,West Bromwich..,EPL,37,3330
+372,Ben Foster,2011,28,Birmingham,EPL,38,3371
+373,Ben Foster,2010,27,Manchester Un..,UCL,2,180
+374,Ben Foster,2010,27,Manchester Un..,EPL,9,810
+375,Julian Speroni,2019,40,Crystal Palac..,EPL,1,90
+376,Julian Speroni,2018,39,Crystal Palac..,EPL,11,990
+377,Julian Speroni,2016,37,Crystal Palac..,EPL,2,180
+378,Julian Speroni,2015,36,Crystal Palac..,EPL,36,3205
+379,Julian Speroni,2014,35,Crystal Palac..,EPL,37,3330
+380,Emiliano Martínez,2020,27,Arsenal,EPL,8,680
+381,Emiliano Martínez,2020,27,Arsenal,UEL,6,540
+382,Emiliano Martínez,2019,26,Reading,EC,18,1620
+383,Emiliano Martínez,2019,26,Arsenal,UEL,1,90
+384,Emiliano Martínez,2018,25,Getafe,SLL,5,450
+385,Emiliano Martínez,2017,24,Arsenal,EPL,2,180
+386,Emiliano Martínez,2016,23,Wolverhampton..,EC,13,1137
+387,Emiliano Martínez,2015,22,Arsenal,UCL,2,180
+388,Emiliano Martínez,2015,22,Rotherham,EC,8,720
+389,Emiliano Martínez,2015,22,Arsenal,EPL,4,301
+390,Emiliano Martínez,2014,21,Sheffield Wed..,EC,11,990
+391,Eldin Jakupovic,2018,33,Leicester,EPL,2,180
+392,Eldin Jakupovic,2017,32,Hull,EPL,22,1980
+393,Eldin Jakupovic,2016,31,Hull,EC,5,450
+394,Eldin Jakupovic,2015,30,Hull,EPL,3,227
+395,Eldin Jakupovic,2014,29,Hull,EPL,1,90
+396,Wojciech Szczesny,2020,30,Juventus,ISA,27,2430
+397,Wojciech Szczesny,2020,30,Juventus,UCL,6,540
+398,Wojciech Szczesny,2019,29,Juventus,ISA,28,2520
+399,Wojciech Szczesny,2019,29,Juventus,UCL,10,900
+400,Wojciech Szczesny,2019,29,Poland,UNL,2,180
+401,Wojciech Szczesny,2018,28,Juventus,ISA,17,1530
+402,Wojciech Szczesny,2018,28,Juventus,UCL,2,91
+403,Wojciech Szczesny,2017,27,Roma,ISA,38,3420
+404,Wojciech Szczesny,2016,26,Roma,ISA,34,3060
+405,Wojciech Szczesny,2018,28,Poland,WC,2,180
+406,Wojciech Szczesny,2016,26,Roma,UCL,8,680
+407,Wojciech Szczesny,2015,25,Arsenal,UCL,4,330
+408,Wojciech Szczesny,2015,25,Arsenal,EPL,17,1499
+409,Wojciech Szczesny,2016,26,Poland,UEC,1,90
+410,Wojciech Szczesny,2014,24,Arsenal,UCL,7,577
+411,Wojciech Szczesny,2014,24,Arsenal,EPL,37,3330
+412,Wojciech Szczesny,2013,23,Arsenal,UCL,3,270
+413,Wojciech Szczesny,2013,23,Arsenal,EPL,25,2250
+414,Wojciech Szczesny,2012,22,Poland,UEC,1,68
+415,Wojciech Szczesny,2012,22,Arsenal,UCL,7,630
+416,Wojciech Szczesny,2012,22,Arsenal,EPL,38,3420
+417,Wojciech Szczesny,2011,21,Arsenal,UCL,2,112
+418,Wojciech Szczesny,2011,21,Arsenal,EPL,15,1350
+419,Tim Howard,2019,40,Colorado Rapi..,UMLS,25,2162
+420,Tim Howard,2018,39,Colorado Rapi..,UMLS,33,2900
+421,Tim Howard,2017,38,Colorado Rapi..,UMLS,25,2250
+422,Tim Howard,2016,37,Colorado Rapi..,UMLS,19,1740
+423,Tim Howard,2016,37,Everton,EPL,25,2250
+424,Tim Howard,2015,36,Everton,UEL,9,810
+425,Tim Howard,2015,36,Everton,EPL,32,2836
+426,Tim Howard,2014,35,Everton,EPL,37,3263
+427,Tim Howard,2014,35,USA,WC,4,390
+428,Tim Howard,2013,34,Everton,EPL,36,3240
+429,Tim Howard,2012,33,Everton,EPL,38,3420
+430,Tim Howard,2011,32,Everton,EPL,38,3420
+431,Tim Howard,2010,31,Everton,EPL,38,3420
+432,Allan McGregor,2020,38,Rangers,UEL,9,810
+433,Allan McGregor,2019,37,Rangers,UEL,6,540
+434,Allan McGregor,2019,37,Scotland,UNL,4,360
+435,Allan McGregor,2018,36,Hull,EC,44,3960
+436,Allan McGregor,2017,35,Cardiff,EC,19,1666
+437,Allan McGregor,2016,34,Hull,EC,44,3960
+438,Allan McGregor,2015,33,Hull,EPL,26,2340
+439,Allan McGregor,2014,32,Hull,EPL,26,2229
+440,Allan McGregor,2011,29,Rangers,UCL,6,540
+441,Allan McGregor,2010,28,Rangers,UCL,6,540
+442,Tim Krul,2020,32,Norwich,EPL,35,3150
+443,Tim Krul,2019,31,Norwich,EC,46,4140
+444,Tim Krul,2017,29,AZ Alkmaar,NE,18,1650
+445,Tim Krul,2017,29,AZ Alkmaar,UEL,2,180
+446,Tim Krul,2016,28,Newcastle Uni..,EPL,8,720
+447,Tim Krul,2015,27,Newcastle Uni..,EPL,30,2700
+448,Tim Krul,2014,26,Newcastle Uni..,EPL,36,3240
+449,Tim Krul,2014,26,Netherlands,WC,1,2
+450,Tim Krul,2013,25,Newcastle Uni..,UEL,6,540
+451,Tim Krul,2013,25,Newcastle Uni..,EPL,24,2127
+452,Tim Krul,2012,24,Newcastle Uni..,EPL,38,3420
+453,Tim Krul,2011,23,Newcastle Uni..,EPL,21,1855
+454,Robert Elliot,2018,32,Newcastle Uni..,EPL,16,1440
+455,Robert Elliot,2017,31,Newcastle Uni..,EC,3,270
+456,Robert Elliot,2016,30,Newcastle Uni..,EPL,21,1890
+457,Robert Elliot,2015,29,Newcastle Uni..,EPL,3,226
+458,Robert Elliot,2014,28,Newcastle Uni..,EPL,2,180
+459,Robert Elliot,2013,27,Newcastle Uni..,UEL,5,406
+460,Robert Elliot,2013,27,Newcastle Uni..,EPL,10,834
+461,Shay Given,2017,41,Stoke,EPL,5,450
+462,Shay Given,2016,40,Stoke,EPL,3,226
+463,Shay Given,2015,39,Aston Villa,EPL,3,270
+464,Shay Given,2014,38,Middlesbrough,EC,16,1440
+465,Shay Given,2013,37,Aston Villa,EPL,2,180
+466,Shay Given,2012,36,Ireland,UEC,3,270
+467,Shay Given,2012,36,Aston Villa,EPL,32,2828
+468,Shay Given,2010,34,Manchester Ci..,EPL,35,3136
+469,Paulo Gazzaniga,2020,28,Tottenham,EPL,18,1612
+470,Paulo Gazzaniga,2020,28,Tottenham,UCL,4,360
+471,Paulo Gazzaniga,2019,27,Tottenham,EPL,3,270
+472,Paulo Gazzaniga,2019,27,Tottenham,UCL,1,90
+473,Paulo Gazzaniga,2018,26,Tottenham,EPL,1,90
+474,Paulo Gazzaniga,2016,24,Southampton,EPL,2,180
+475,Paulo Gazzaniga,2015,23,Southampton,EPL,2,180
+476,Paulo Gazzaniga,2014,22,Southampton,EPL,8,662
+477,Paulo Gazzaniga,2013,21,Southampton,EPL,9,810
+478,Brad Jones,2018,36,Feyenoord,UCL,5,450
+479,Brad Jones,2018,36,Feyenoord,NE,31,2790
+480,Brad Jones,2017,35,Feyenoord,NE,32,2880
+481,Brad Jones,2017,35,Feyenoord,UEL,6,540
+482,Brad Jones,2016,34,NEC Nijmegen,NE,17,1530
+483,Brad Jones,2015,33,Liverpool,EPL,3,196
+484,Brad Jones,2013,31,Liverpool,UEL,3,270
+485,Brad Jones,2013,31,Liverpool,EPL,7,630
+486,Brad Jones,2012,30,Liverpool,EPL,1,64
+487,Kelvin Davis,2016,39,Southampton,EPL,1,90
+488,Kelvin Davis,2015,38,Southampton,EPL,7,616
+489,Kelvin Davis,2014,37,Southampton,EPL,2,180
+490,Kelvin Davis,2013,36,Southampton,EPL,10,855
+491,Jed Steer,2020,27,Aston Villa,EPL,1,8
+492,Jed Steer,2019,26,Aston Villa,EC,19,1695
+493,Jed Steer,2016,23,Huddersfield,EC,38,3346
+494,Jed Steer,2015,22,Aston Villa,EPL,1,90
+495,Jak Alnwick,2015,22,Newcastle Uni..,EPL,6,495
+496,Alex McCarthy,2020,30,Southampton,EPL,27,2430
+497,Alex McCarthy,2019,29,Southampton,EPL,25,2250
+498,Alex McCarthy,2018,28,Southampton,EPL,18,1620
+499,Alex McCarthy,2016,26,Crystal Palac..,EPL,7,630
+500,Alex McCarthy,2015,25,Queens Park R..,EPL,3,236
+501,Alex McCarthy,2014,24,Reading,EC,44,3960
+502,Alex McCarthy,2013,23,Reading,EPL,13,1170
+503,Karl Darlow,2018,27,Newcastle Uni..,EPL,10,900
+504,Karl Darlow,2017,26,Newcastle Uni..,EC,34,3060
+505,Karl Darlow,2016,25,Newcastle Uni..,EPL,9,810
+506,Karl Darlow,2015,24,Nottingham Fo..,EC,42,3780
+507,Karl Darlow,2014,23,Nottingham Fo..,EC,43,3870
+508,Heurelho Gomes,2018,37,Watford,EPL,24,2129
+509,Heurelho Gomes,2017,36,Watford,EPL,38,3339
+510,Heurelho Gomes,2016,35,Watford,EPL,38,3397
+511,Heurelho Gomes,2015,34,Watford,EC,44,3933
+512,Heurelho Gomes,2013,32,Hoffenheim,GB,9,774
+513,Heurelho Gomes,2011,30,Tottenham,UCL,8,641
+514,Heurelho Gomes,2011,30,Tottenham,EPL,30,2700
+515,Heurelho Gomes,2010,29,Tottenham,EPL,31,2717
+516,Jordan Pickford,2020,26,Everton,EPL,37,3360
+517,Jordan Pickford,2019,25,Everton,EPL,38,3420
+518,Jordan Pickford,2019,25,England,UNL,6,600
+519,Jordan Pickford,2018,24,Everton,UEL,3,270
+520,Jordan Pickford,2018,24,Everton,EPL,38,3420
+521,Jordan Pickford,2017,23,Sunderland,EPL,29,2610
+522,Jordan Pickford,2018,24,England,WC,7,690
+523,Jordan Pickford,2016,22,Preston,EC,24,2101
+524,Jordan Pickford,2016,22,Sunderland,EPL,2,180
+525,Kristoffer Nordfeldt,2020,31,Genclerbirlig..,TS,14,1260
+526,Kristoffer Nordfeldt,2019,30,Swansea,EC,22,1913
+527,Kristoffer Nordfeldt,2017,28,Swansea,EPL,1,90
+528,Kristoffer Nordfeldt,2016,27,Swansea,EPL,1,90
+529,Kristoffer Nordfeldt,2015,26,SC Heerenveen,NE,38,3450
+530,Kristoffer Nordfeldt,2014,25,SC Heerenveen,NE,35,3146
+531,Declan Rudd,2020,29,Preston,EC,46,4140
+532,Declan Rudd,2019,28,Preston,EC,36,3240
+533,Declan Rudd,2018,27,Preston,EC,16,1440
+534,Declan Rudd,2016,25,Norwich,EPL,11,990
+535,Declan Rudd,2012,21,Norwich,EPL,2,99
+536,Maarten Stekelenburg,2018,35,Everton,UEL,1,90
+537,Maarten Stekelenburg,2017,34,Everton,EPL,19,1684
+538,Maarten Stekelenburg,2016,33,Southampton,EPL,17,1530
+539,Maarten Stekelenburg,2015,32,Monaco,FL1,1,90
+540,Maarten Stekelenburg,2014,31,Fulham,EPL,19,1682
+541,Maarten Stekelenburg,2013,30,Roma,ISA,19,1666
+542,Maarten Stekelenburg,2012,29,Netherlands,UEC,3,270
+543,Maarten Stekelenburg,2012,29,Roma,ISA,29,2391
+544,Maarten Stekelenburg,2011,28,Ajax,UCL,6,540
+545,Artur Boruc,2019,39,Bournemouth,EPL,12,1080
+546,Artur Boruc,2017,37,Bournemouth,EPL,35,3150
+547,Artur Boruc,2016,36,Bournemouth,EPL,32,2880
+548,Artur Boruc,2015,35,Bournemouth,EC,37,3330
+549,Artur Boruc,2014,34,Southampton,EPL,29,2578
+550,Artur Boruc,2013,33,Southampton,EPL,20,1756
+551,Artur Boruc,2012,32,Fiorentina,ISA,36,3240
+552,Artur Boruc,2011,31,Fiorentina,ISA,26,2340
+553,John Ruddy,2020,33,Wolverhampton..,UEL,1,90
+554,John Ruddy,2019,32,Wolverhampton..,EPL,1,90
+555,John Ruddy,2018,31,Wolverhampton..,EC,45,4050
+556,John Ruddy,2017,30,Norwich,EC,27,2386
+557,John Ruddy,2016,29,Norwich,EPL,27,2430
+558,John Ruddy,2015,28,Norwich,EC,49,4410
+559,John Ruddy,2014,27,Norwich,EPL,38,3420
+560,John Ruddy,2013,26,Norwich,EPL,15,1342
+561,John Ruddy,2012,25,Norwich,EPL,37,3320
+562,Mark Bunn,2019,34,Aston Villa,EC,1,90
+563,Mark Bunn,2018,33,Aston Villa,EC,1,90
+564,Mark Bunn,2017,32,Aston Villa,EC,6,495
+565,Mark Bunn,2016,31,Aston Villa,EPL,10,900
+566,Mark Bunn,2013,28,Norwich,EPL,23,1854
+567,Mark Bunn,2012,27,Blackburn,EPL,3,270
+568,Mark Bunn,2011,26,Blackburn,EPL,3,225
+569,Sergio Romero,2020,33,Manchester Un..,UEL,7,630
+570,Sergio Romero,2019,32,Manchester Un..,UCL,1,90
+571,Sergio Romero,2018,31,Manchester Un..,UCL,2,180
+572,Sergio Romero,2018,31,Manchester Un..,EPL,1,90
+573,Sergio Romero,2017,30,Manchester Un..,EPL,2,180
+574,Sergio Romero,2017,30,Manchester Un..,UEL,12,1110
+575,Sergio Romero,2016,29,Manchester Un..,UEL,2,180
+576,Sergio Romero,2016,29,Manchester Un..,EPL,4,360
+577,Sergio Romero,2015,28,Argentina,ICA,6,602
+578,Sergio Romero,2015,28,Sampdoria,ISA,10,878
+579,Sergio Romero,2014,27,Monaco,FL1,3,226
+580,Sergio Romero,2014,27,Argentina,WC,7,721
+581,Sergio Romero,2013,26,Sampdoria,ISA,32,2824
+582,Sergio Romero,2010,23,AZ Alkmaar,UCL,6,540
+583,Darren Randolph,2020,33,Middlesbrough,EC,14,1260
+584,Darren Randolph,2020,33,West Ham,EPL,2,180
+585,Darren Randolph,2019,32,Middlesbrough,EC,46,4140
+586,Darren Randolph,2019,32,Ireland,UNL,4,360
+587,Darren Randolph,2018,31,Middlesbrough,EC,48,4320
+588,Darren Randolph,2017,30,West Ham,EPL,22,1980
+589,Darren Randolph,2016,29,West Ham,EPL,6,540
+590,Darren Randolph,2015,28,Birmingham,EC,45,4042
+591,Darren Randolph,2016,29,Ireland,UEC,4,360
+592,Darren Randolph,2014,27,Birmingham,EC,46,4140
+593,Jakob Haugaard,2017,25,Wigan,EC,8,676
+594,Jakob Haugaard,2016,24,Stoke,EPL,5,405
+595,Adam Federici,2020,35,Stoke,EC,7,630
+596,Adam Federici,2019,34,Stoke,EC,1,90
+597,Adam Federici,2017,32,Bournemouth,EPL,2,180
+598,Adam Federici,2016,31,Bournemouth,EPL,6,496
+599,Adam Federici,2015,30,Reading,EC,43,3870
+600,Adam Federici,2014,29,Reading,EC,2,180
+601,Adam Federici,2013,28,Reading,EPL,21,1890
+602,Adam Bogdan,2017,29,Wigan,EC,17,1499
+603,Adam Bogdan,2016,28,Liverpool,EPL,2,180
+604,Adam Bogdan,2015,27,Bolton,EC,10,851
+605,Adam Bogdan,2014,26,Bolton,EC,29,2610
+606,Adam Bogdan,2012,24,Bolton,EPL,20,1800
+607,Adam Bogdan,2011,23,Bolton,EPL,4,321
+608,Lee Grant,2020,37,Manchester Un..,UEL,1,90
+609,Lee Grant,2018,35,Stoke,EPL,3,270
+610,Lee Grant,2017,34,Stoke,EPL,28,2520
+611,Lee Grant,2016,33,Derby,EC,10,900
+612,Lee Grant,2015,32,Derby,EC,40,3600
+613,Lee Grant,2014,31,Derby,EC,49,4410
+614,Joel Pereira,2019,23,Vitoria de Se..,PLN,9,810
+615,Joel Pereira,2017,21,Belenenses SA..,PLN,8,720
+616,Joel Pereira,2017,21,Manchester Un..,EPL,1,90
+617,Ryan Allsop,2020,28,Wycombe,EL1,35,3150
+618,Ryan Allsop,2017,25,Bournemouth,EPL,1,90
+619,Ryan Allsop,2016,24,Bournemouth,EPL,1,45
+620,Ryan Allsop,2014,22,Bournemouth,EC,12,1011
+621,David Marshall,2020,35,Wigan,EC,39,3510
+622,David Marshall,2019,34,Hull,EC,43,3826
+623,David Marshall,2018,33,Hull,EC,2,180
+624,David Marshall,2017,32,Cardiff,EC,4,360
+625,David Marshall,2017,32,Hull,EPL,16,1440
+626,David Marshall,2016,31,Cardiff,EC,40,3551
+627,David Marshall,2015,30,Cardiff,EC,38,3362
+628,David Marshall,2014,29,Cardiff,EPL,37,3330
+629,Claudio Bravo,2020,37,Manchester Ci..,EPL,4,346
+630,Claudio Bravo,2020,37,Manchester Ci..,UCL,2,126
+631,Claudio Bravo,2018,35,Manchester Ci..,UCL,1,90
+632,Claudio Bravo,2018,35,Manchester Ci..,EPL,3,225
+633,Claudio Bravo,2017,34,Barcelona,SLL,1,90
+634,Claudio Bravo,2017,34,Manchester Ci..,UCL,4,323
+635,Claudio Bravo,2017,34,Manchester Ci..,EPL,22,1969
+636,Claudio Bravo,2016,33,Barcelona,SLL,32,2878
+637,Claudio Bravo,2015,32,Chile,ICA,6,571
+638,Claudio Bravo,2015,32,Barcelona,SLL,37,3330
+639,Claudio Bravo,2014,31,Real Sociedad,SLL,37,3330
+640,Claudio Bravo,2014,31,Real Sociedad,UCL,5,450
+641,Claudio Bravo,2014,31,Chile,WC,4,391
+642,Claudio Bravo,2013,30,Real Sociedad,SLL,31,2790
+643,Claudio Bravo,2012,29,Real Sociedad,SLL,37,3330
+644,Claudio Bravo,2011,28,Real Sociedad,SLL,38,3420
+645,Loris Karius,2020,27,Besiktas,TS,25,2250
+646,Loris Karius,2020,27,Besiktas,UEL,5,450
+647,Loris Karius,2019,26,Besiktas,TS,30,2700
+648,Loris Karius,2019,26,Besiktas,UEL,5,450
+649,Loris Karius,2018,25,Liverpool,UCL,13,1170
+650,Loris Karius,2018,25,Liverpool,EPL,19,1710
+651,Loris Karius,2017,24,Liverpool,EPL,10,900
+652,Loris Karius,2016,23,Mainz 05,GB,34,3060
+653,Loris Karius,2015,22,Mainz 05,GB,33,2912
+654,Loris Karius,2014,21,Mainz 05,GB,23,2070
+655,Loris Karius,2013,20,Mainz 05,GB,1,40
+656,Steve Mandanda,2020,35,Marseille,FL1,27,2371
+657,Steve Mandanda,2019,34,Marseille,UEL,1,90
+658,Steve Mandanda,2019,34,Marseille,FL1,31,2737
+659,Steve Mandanda,2018,33,Marseille,UEL,7,630
+660,Steve Mandanda,2018,33,Marseille,FL1,31,2682
+661,Steve Mandanda,2017,32,Crystal Palac..,EPL,9,810
+662,Steve Mandanda,2018,33,France,WC,1,90
+663,Steve Mandanda,2016,31,Marseille,UEL,8,720
+664,Steve Mandanda,2016,31,Marseille,FL1,36,3240
+665,Steve Mandanda,2015,30,Marseille,FL1,38,3420
+666,Steve Mandanda,2014,29,Marseille,UCL,6,540
+667,Steve Mandanda,2014,29,Marseille,FL1,38,3354
+668,Steve Mandanda,2013,28,Marseille,UEL,5,450
+669,Steve Mandanda,2013,28,Marseille,FL1,38,3420
+670,Steve Mandanda,2012,27,Marseille,UCL,9,810
+671,Steve Mandanda,2012,27,Marseille,FL1,38,3420
+672,Steve Mandanda,2011,26,Marseille,UCL,8,720
+673,Steve Mandanda,2011,26,Marseille,FL1,38,3420
+674,Steve Mandanda,2010,25,Marseille,UCL,6,540
+675,Steve Mandanda,2010,25,Marseille,FL1,36,3177
+676,Ron-Robert Zieler,2020,31,Hannover 96,GB2,31,2790
+677,Ron-Robert Zieler,2019,30,VfB Stuttgart,GB,34,3060
+678,Ron-Robert Zieler,2018,29,VfB Stuttgart,GB,34,3060
+679,Ron-Robert Zieler,2017,28,Leicester,UCL,1,90
+680,Ron-Robert Zieler,2017,28,Leicester,EPL,9,753
+681,Ron-Robert Zieler,2016,27,Hannover 96,GB,34,3060
+682,Ron-Robert Zieler,2015,26,Hannover 96,GB,34,3060
+683,Ron-Robert Zieler,2014,25,Hannover 96,GB,34,3060
+684,Ron-Robert Zieler,2013,24,Hannover 96,GB,34,3060
+685,Ron-Robert Zieler,2013,24,Hannover 96,UEL,8,720
+686,Ron-Robert Zieler,2012,23,Hannover 96,GB,34,3060
+687,Ron-Robert Zieler,2011,22,Hannover 96,GB,15,1312
+688,Nick Pope,2020,28,Burnley,EPL,37,3330
+689,Nick Pope,2018,26,Burnley,EPL,35,3114
+690,Nick Pope,2016,24,Charlton,EC,24,2160
+691,Nick Pope,2015,23,Charlton,EC,8,653
+692,Mat Ryan,2020,28,Brighton,EPL,37,3330
+693,Mat Ryan,2019,27,Brighton,EPL,34,3060
+694,Mat Ryan,2018,26,Brighton,EPL,38,3420
+695,Mat Ryan,2017,25,Valencia,SLL,2,180
+696,Mat Ryan,2017,25,Genk,UEL,6,540
+697,Mat Ryan,2018,26,Australia,WC,3,270
+698,Mat Ryan,2016,24,Valencia,SLL,8,720
+699,Mat Ryan,2016,24,Valencia,UEL,4,360
+700,Mat Ryan,2015,23,Club Brugge,UEL,12,1080
+701,Mat Ryan,2014,22,Australia,WC,3,270
+702,Martin Dubravka,2020,31,Newcastle Uni..,EPL,37,3330
+703,Martin Dubravka,2019,30,Newcastle Uni..,EPL,38,3420
+704,Martin Dubravka,2019,30,Slovakia,UNL,4,360
+705,Martin Dubravka,2018,29,Newcastle Uni..,EPL,12,1080
+706,Martin Dubravka,2017,28,Slovan Libere..,UEL,5,450
+707,Martin Dubravka,2014,25,Esbjerg fB,UEL,2,180
+708,Martin Dubravka,2011,22,Zilina,UCL,6,540
+709,Jonas Lössl,2020,31,Huddersfield,EC,15,1350
+710,Jonas Lössl,2019,30,Huddersfield,EPL,31,2777
+711,Jonas Lössl,2018,29,Huddersfield,EPL,38,3420
+712,Jonas Lössl,2017,28,Mainz 05,GB,27,2430
+713,Jonas Lössl,2017,28,Mainz 05,UEL,5,450
+714,Jonas Lössl,2016,27,Guingamp,FL1,37,3330
+715,Jonas Lössl,2015,26,Guingamp,UEL,7,630
+716,Jonas Lössl,2015,26,Guingamp,FL1,30,2689
+717,Orestis Karnezis,2019,34,Napoli,ISA,9,810
+718,Orestis Karnezis,2018,33,Watford,EPL,15,1291
+719,Orestis Karnezis,2017,32,Udinese,ISA,33,2959
+720,Orestis Karnezis,2016,31,Udinese,ISA,38,3420
+721,Orestis Karnezis,2015,30,Udinese,ISA,37,3269
+722,Orestis Karnezis,2014,29,Granada,SLL,6,540
+723,Orestis Karnezis,2014,29,Greece,WC,4,327
+724,Orestis Karnezis,2013,28,Panathinaikos,UEL,6,540
+725,Mark Travers,2020,21,Bournemouth,EPL,1,90
+726,Mark Travers,2019,20,Bournemouth,EPL,2,180
+727,Vicente Guaita,2020,33,Crystal Palac..,EPL,34,3060
+728,Vicente Guaita,2019,32,Crystal Palac..,EPL,20,1755
+729,Vicente Guaita,2018,31,Getafe,SLL,33,2970
+730,Vicente Guaita,2016,29,Getafe,SLL,38,3420
+731,Vicente Guaita,2015,28,Getafe,SLL,29,2610
+732,Vicente Guaita,2014,27,Valencia,SLL,13,1136
+733,Vicente Guaita,2014,27,Valencia,UEL,7,660
+734,Vicente Guaita,2013,26,Valencia,SLL,14,1260
+735,Vicente Guaita,2013,26,Valencia,UCL,6,540
+736,Vicente Guaita,2012,25,Valencia,SLL,26,2340
+737,Vicente Guaita,2011,24,Valencia,SLL,21,1793
+738,Vicente Guaita,2011,24,Valencia,UCL,4,337
+739,Neil Etheridge,2020,30,Cardiff,EC,16,1406
+740,Neil Etheridge,2019,29,Cardiff,EPL,38,3420
+741,Neil Etheridge,2018,28,Cardiff,EC,45,4050
+742,Neil Etheridge,2015,25,Charlton,EC,4,360
+743,David Button,2019,30,Brighton,EPL,4,360
+744,David Button,2018,29,Fulham,EC,20,1800
+745,David Button,2017,28,Fulham,EC,40,3600
+746,David Button,2016,27,Brentford,EC,46,4140
+747,David Button,2015,26,Brentford,EC,48,4320
+748,Bernd Leno,2020,28,Arsenal,EPL,30,2650
+749,Bernd Leno,2020,28,Arsenal,UEL,2,210
+750,Bernd Leno,2019,27,Arsenal,EPL,32,2833
+751,Bernd Leno,2019,27,Arsenal,UEL,3,270
+752,Bernd Leno,2018,26,Bayer Leverku..,GB,33,2970
+753,Bernd Leno,2017,25,Bayer Leverku..,GB,34,3060
+754,Bernd Leno,2017,25,Bayer Leverku..,UCL,7,630
+755,Bernd Leno,2016,24,Bayer Leverku..,GB,33,2970
+756,Bernd Leno,2016,24,Bayer Leverku..,UEL,4,360
+757,Bernd Leno,2016,24,Bayer Leverku..,UCL,6,540
+758,Bernd Leno,2015,23,Bayer Leverku..,GB,34,3060
+759,Bernd Leno,2015,23,Bayer Leverku..,UCL,8,751
+760,Bernd Leno,2014,22,Bayer Leverku..,UCL,8,720
+761,Bernd Leno,2014,22,Bayer Leverku..,GB,34,3060
+762,Bernd Leno,2013,21,Germany U21,IEU,2,180
+763,Bernd Leno,2013,21,Bayer Leverku..,GB,32,2880
+764,Bernd Leno,2013,21,Bayer Leverku..,UEL,6,540
+765,Bernd Leno,2012,20,Bayer Leverku..,GB,33,2970
+766,Bernd Leno,2012,20,Bayer Leverku..,UCL,8,720
+767,Fabri,2020,32,Mallorca,SLL,2,91
+768,Fabri,2019,31,Fulham,EPL,2,180
+769,Fabri,2018,30,Besiktas,TS,34,3060
+770,Fabri,2018,30,Besiktas,UCL,6,540
+771,Fabri,2017,29,Besiktas,TS,32,2834
+772,Fabri,2017,29,Besiktas,UCL,5,450
+773,Fabri,2017,29,Besiktas,UEL,6,570
+774,Fabri,2015,27,Deportivo La ..,SLL,32,2746
+775,Fabri,2013,25,Real Betis,SLL,2,180
+776,Fabri,2012,24,Real Betis,SLL,15,1350
+777,Fabri,2010,22,Real Valladol..,SLL,1,90
+778,Kepa Arrizabalaga,2020,25,Chelsea,EPL,33,2970
+779,Kepa Arrizabalaga,2020,25,Chelsea,UCL,6,540
+780,Kepa Arrizabalaga,2019,24,Chelsea,EPL,36,3240
+781,Kepa Arrizabalaga,2019,24,Chelsea,UEL,13,1200
+782,Kepa Arrizabalaga,2018,23,Athletic Bilb..,SLL,30,2700
+783,Kepa Arrizabalaga,2017,22,Athletic Bilb..,SLL,23,2016
+784,Sergio Rico,2020,26,Paris Saint-G..,FL1,2,180
+785,Sergio Rico,2020,26,Paris Saint-G..,UCL,1,90
+786,Sergio Rico,2019,25,Fulham,EPL,29,2610
+787,Sergio Rico,2018,24,Sevilla,SLL,24,2155
+788,Sergio Rico,2018,24,Sevilla,UCL,8,720
+789,Sergio Rico,2017,23,Sevilla,SLL,35,3150
+790,Sergio Rico,2017,23,Sevilla,UCL,8,720
+791,Sergio Rico,2016,22,Sevilla,SLL,34,3060
+792,Sergio Rico,2016,22,Sevilla,UCL,6,540
+793,Sergio Rico,2015,21,Sevilla,SLL,21,1810
+794,Sergio Rico,2015,21,Sevilla,UEL,11,945
+795,Rui Patrício,2020,32,Wolverhampton..,EPL,37,3330
+796,Rui Patrício,2020,32,Wolverhampton..,UEL,8,720
+797,Rui Patrício,2019,31,Wolverhampton..,EPL,37,3330
+798,Rui Patrício,2019,31,Portugal,UNL,5,450
+799,Rui Patrício,2018,30,Sporting CP,PLN,34,3060
+800,Rui Patrício,2018,30,Sporting CP,UEL,6,570
+801,Rui Patrício,2018,30,Sporting CP,UCL,6,540
+802,Rui Patrício,2017,29,Sporting CP,PLN,31,2790
+803,Rui Patrício,2017,29,Sporting CP,UCL,6,540
+804,Rui Patrício,2018,30,Portugal,WC,4,360
+805,Rui Patrício,2016,28,Sporting CP,UEL,7,557
+806,Rui Patrício,2015,27,Sporting CP,UCL,6,540
+807,Rui Patrício,2015,27,Sporting CP,UEL,2,180
+808,Rui Patrício,2016,28,Portugal,UEC,7,720
+809,Rui Patrício,2014,26,Portugal,WC,1,90
+810,Rui Patrício,2013,25,Sporting CP,UEL,5,450
+811,Rui Patrício,2012,24,Portugal,UEC,5,480
+812,Marcus Bettinelli,2020,28,Fulham,EC,14,1241
+813,Marcus Bettinelli,2019,27,Fulham,EPL,7,630
+814,Marcus Bettinelli,2018,26,Fulham,EC,29,2610
+815,Marcus Bettinelli,2017,25,Fulham,EC,8,720
+816,Marcus Bettinelli,2016,24,Fulham,EC,11,947
+817,Marcus Bettinelli,2015,23,Fulham,EC,39,3438
+818,Angus Gunn,2020,24,Southampton,EPL,10,900
+819,Angus Gunn,2019,23,Southampton,EPL,12,1080
+820,Angus Gunn,2018,22,Norwich,EC,46,4140
+821,Joel Coleman,2020,24,Huddersfield,EC,3,187
+822,Joel Coleman,2019,23,Huddersfield,EPL,1,90
+823,Joel Coleman,2017,21,Huddersfield,EC,6,474
+824,Michael McGovern,2020,36,Norwich,EPL,2,158
+825,Michael McGovern,2017,33,Norwich,EC,20,1755
+826,Michael McGovern,2016,32,Northern Irel..,UEC,4,360
+827,Dean Henderson,2020,23,Sheffield Uni..,EPL,35,3150
+828,Dean Henderson,2019,22,Sheffield Uni..,EC,46,4140
+829,Dean Henderson,2019,22,England U21,IEU,3,270
+830,David Martin,2020,34,West Ham,EPL,5,436
+831,David Martin,2019,33,Millwall,EC,10,900
+832,David Martin,2018,32,Millwall,EC,1,90
+833,David Martin,2016,30,Milton Keynes..,EC,35,3131
+834,Aaron Ramsdale,2020,22,Bournemouth,EPL,36,3240
+835,Roberto Jiménez,2020,34,Deportivo Ala..,SLL,9,789
+836,Roberto Jiménez,2020,34,West Ham,EPL,8,686
+837,Roberto Jiménez,2018,32,Malaga,SLL,34,3060
+838,Roberto Jiménez,2017,31,Espanyol,SLL,4,307
+839,Roberto Jiménez,2016,30,Olympiacos,UEL,2,210
+840,Roberto Jiménez,2016,30,Olympiacos,UCL,6,540
+841,Roberto Jiménez,2015,29,Olympiacos,UCL,6,540
+842,Roberto Jiménez,2015,29,Olympiacos,UEL,2,180
+843,Roberto Jiménez,2014,28,Olympiacos,UCL,8,720
+844,Roberto Jiménez,2013,27,Real Zaragoza,SLL,33,2970
+845,Roberto Jiménez,2012,26,Real Zaragoza,SLL,38,3420
+846,Roberto Jiménez,2011,25,Benfica,UCL,6,540
+847,Roberto Jiménez,2010,24,Atletico Madr..,SLL,3,270
+848,Roberto Jiménez,2010,24,Real Zaragoza,SLL,15,1350
+849,Roberto Jiménez,2010,24,Atletico Madr..,UCL,1,28
+850,Pepe Reina,2020,37,AC Milan,ISA,2,91
+851,Pepe Reina,2020,37,Aston Villa,EPL,11,990
+852,Pepe Reina,2019,36,AC Milan,ISA,4,328
+853,Pepe Reina,2019,36,AC Milan,UEL,6,540
+854,Pepe Reina,2018,35,Napoli,ISA,37,3330
+855,Pepe Reina,2018,35,Napoli,UEL,2,180
+856,Pepe Reina,2018,35,Napoli,UCL,6,540
+857,Pepe Reina,2017,34,Napoli,ISA,37,3330
+858,Pepe Reina,2017,34,Napoli,UCL,8,720
+859,Pepe Reina,2016,33,Napoli,ISA,37,3330
+860,Pepe Reina,2016,33,Napoli,UEL,5,450
+861,Pepe Reina,2015,32,Bayern Munich,GB,3,193
+862,Pepe Reina,2014,31,Napoli,ISA,30,2603
+863,Pepe Reina,2014,31,Napoli,UCL,5,450
+864,Pepe Reina,2014,31,Napoli,UEL,4,315
+865,Pepe Reina,2014,31,Spain,WC,1,90
+866,Pepe Reina,2013,30,Spain,ICC,1,90
+867,Pepe Reina,2013,30,Liverpool,UEL,5,450
+868,Pepe Reina,2013,30,Liverpool,EPL,31,2790
+869,Pepe Reina,2012,29,Liverpool,EPL,34,3053
+870,Pepe Reina,2011,28,Liverpool,EPL,38,3420
+871,Pepe Reina,2010,27,Liverpool,UCL,5,450
+872,Pepe Reina,2010,27,Liverpool,EPL,38,3420
+873,Ralf Fährmann,2020,31,Norwich,EPL,1,22
+874,Ralf Fährmann,2019,30,Schalke 04,GB,17,1469
+875,Ralf Fährmann,2019,30,Schalke 04,UCL,6,540
+876,Ralf Fährmann,2018,29,Schalke 04,GB,34,3016
+877,Ralf Fährmann,2017,28,Schalke 04,GB,34,3060
+878,Ralf Fährmann,2017,28,Schalke 04,UEL,11,1020
+879,Ralf Fährmann,2016,27,Schalke 04,GB,34,3060
+880,Ralf Fährmann,2016,27,Schalke 04,UEL,8,720
+881,Ralf Fährmann,2015,26,Schalke 04,GB,25,2250
+882,Ralf Fährmann,2015,26,Schalke 04,UCL,6,540
+883,Ralf Fährmann,2014,25,Schalke 04,UCL,4,360
+884,Ralf Fährmann,2014,25,Schalke 04,GB,22,1980
+885,Ralf Fährmann,2012,23,Schalke 04,GB,9,749
+886,Ralf Fährmann,2011,22,Eintracht Fra..,GB,15,1306
+887,Ralf Fährmann,2010,21,Eintracht Fra..,GB,3,270
+888,Ørjan Nyland,2020,29,Aston Villa,EPL,7,537
+889,Ørjan Nyland,2019,28,Aston Villa,EC,23,2070
+890,Ørjan Nyland,2018,27,Ingolstadt,GB2,30,2700
+891,Ørjan Nyland,2017,26,Ingolstadt,GB,12,1022
+892,Ørjan Nyland,2016,25,Ingolstadt,GB,6,540
+893,Ørjan Nyland,2013,22,Norway U21,IEU,3,270
+894,Simon Moore,2020,30,Sheffield Uni..,EPL,2,180
+895,Simon Moore,2018,28,Sheffield Uni..,EC,18,1488
+896,Simon Moore,2016,26,Cardiff,EC,7,588
+897,Simon Moore,2015,25,Cardiff,EC,10,778
+898,Alisson,2020,27,Liverpool,EPL,28,2455
+899,Alisson,2020,27,Liverpool,UCL,5,450
+900,Alisson,2019,26,Brazil,ICA,6,570
+901,Alisson,2019,26,Liverpool,EPL,38,3420
+902,Alisson,2019,26,Liverpool,UCL,13,1170
+903,Alisson,2018,25,Roma,ISA,37,3330
+904,Alisson,2018,25,Roma,UCL,12,1080
+905,Alisson,2017,24,Roma,UEL,10,900
+906,Alisson,2016,23,Internacional,BSA,1,90
+907,Alisson,2018,25,Brazil,WC,5,450
+908,Alisson,2015,22,Internacional,BSA,26,2266
+909,Alisson,2014,21,Internacional,BSA,11,990
+910,Ederson,2020,26,Manchester Ci..,EPL,34,2982
+911,Ederson,2020,26,Manchester Ci..,UCL,6,496
+912,Ederson,2019,25,Manchester Ci..,EPL,38,3420
+913,Ederson,2019,25,Manchester Ci..,UCL,10,900
+914,Ederson,2018,24,Manchester Ci..,UCL,9,810
+915,Ederson,2018,24,Manchester Ci..,EPL,37,3197
+916,Ederson,2017,23,Benfica,PLN,27,2381
+917,Ederson,2017,23,Benfica,UCL,7,630
+918,Ederson,2016,22,Benfica,UCL,3,270
+919,Ederson,2015,21,Rio Ave,UEL,2,180
+920,Paul Robinson,2017,37,Burnley,EPL,3,270
+921,Paul Robinson,2015,35,Blackburn,EC,7,630
+922,Paul Robinson,2014,34,Blackburn,EC,21,1890
+923,Paul Robinson,2012,32,Blackburn,EPL,34,3060
+924,Paul Robinson,2011,31,Blackburn,EPL,36,3196
+925,Paul Robinson,2010,30,Blackburn,EPL,35,3086
+926,Danny Ward,2017,24,Huddersfield,EC,45,3996
+927,Danny Ward,2016,23,Liverpool,EPL,2,180
+928,Danny Ward,2016,23,Wales,UEC,1,90
