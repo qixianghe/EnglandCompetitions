@@ -1,0 +1,54 @@
+,Name,Club,Age,Apps,Mins,Total,SixYardBox,PenaltyArea,OutOfBox,PassTotal,AccLB,InAccLB,AccSP,InAccSP,Rating
+0,Frank Fielding,Bristol City,31,5,450,16,3,6,7,119,33,52,34,0,7.11
+1,Keiren Westwood,Sheffield Wednesday,34,20,1800,59,2,40,17,626,212,363,49,2,7.04
+2,Emiliano Martínez,Reading,26,18,1620,73,3,37,33,600,128,239,230,3,6.99
+3,Anssi Jaakkola,Reading,32,15,1350,62,8,34,20,385,63,151,168,3,6.95
+4,Stefan Marinovic,Bristol City,27,1,90,4,0,0,4,24,4,17,3,0,6.92
+5,William Huffer,Leeds,20,1,90,1,1,0,0,28,2,12,14,0,6.87
+6,Max O'Leary,Bristol City,22,14,1260,45,4,23,18,378,97,179,98,4,6.87
+7,David Martin,Millwall,33,10,900,25,1,12,12,248,63,158,27,0,6.84
+8,Remi Matthews,Bolton,25,18,1620,70,1,47,22,529,214,277,37,1,6.82
+9,Costel Pantilimon,Nottingham Forest,32,44,3960,139,11,82,46,1320,309,749,257,5,6.77
+10,Luke Daniels,Brentford,31,12,1080,34,1,18,15,338,64,139,133,2,6.77
+11,Niki Mäenpää,Bristol City,34,26,2315,70,3,34,33,789,172,338,275,4,6.75
+12,Jack Butland,Stoke,26,45,4050,124,8,62,54,1374,360,592,417,5,6.73
+13,Darren Randolph,Middlesbrough,32,46,4140,133,7,77,49,1087,364,583,135,5,6.71
+14,Sam Johnstone,West Bromwich Albion,26,46,4140,147,9,80,58,1467,376,499,584,8,6.7
+15,Lee Camp,Birmingham,34,44,3960,114,5,63,46,1292,495,766,31,0,6.68
+16,Declan Rudd,Preston,28,36,3240,104,7,58,39,1022,269,490,260,3,6.67
+17,Kelle Roos,Derby,27,16,1440,35,4,12,19,456,92,175,189,0,6.67
+18,Erwin Mulder,Swansea,30,24,2160,73,6,40,27,844,170,227,445,2,6.64
+19,Dean Henderson,Sheffield United,22,46,4140,111,6,58,47,1056,238,613,201,4,6.63
+20,Jayson Leutwiler,Blackburn,30,5,450,13,2,6,5,140,13,79,48,0,6.62
+21,Joe Lumley,Queens Park Rangers,24,42,3780,112,8,67,37,1261,370,629,261,1,6.6
+22,Marek Rodák,Rotherham,22,45,4050,143,7,86,50,1452,559,866,26,1,6.59
+23,Bailey Peacock-Farrell,Leeds,22,28,2520,57,5,35,17,818,116,263,433,6,6.59
+24,Tim Krul,Norwich,31,46,4140,136,8,68,60,1541,298,610,631,2,6.58
+25,Connor Ripley,Preston,26,2,180,9,0,5,4,50,18,25,7,0,6.57
+26,Luke Steele,Nottingham Forest,34,2,180,5,0,3,2,44,11,21,12,0,6.57
+27,David Marshall,Hull,34,43,3826,125,8,75,42,1212,327,620,263,2,6.56
+28,Sam Walker,Reading,27,7,630,23,4,11,8,181,42,118,21,0,6.56
+29,David Raya Martin,Blackburn,23,41,3682,120,10,57,53,1201,308,699,194,0,6.56
+30,Ørjan Nyland,Aston Villa,28,23,2070,67,3,40,24,634,152,303,178,1,6.55
+31,Cameron Dawson,Sheffield Wednesday,24,26,2340,85,3,51,31,770,224,353,191,2,6.54
+32,Jed Steer,Aston Villa,26,15,1350,29,0,17,12,412,84,210,118,0,6.53
+33,Ben Alnwick,Bolton,32,27,2430,68,2,44,22,872,343,476,49,4,6.53
+34,Dean Gerken,Ipswich,34,18,1620,47,1,30,16,532,126,278,128,0,6.51
+35,George Long,Hull,25,3,270,6,2,3,1,87,23,54,10,0,6.51
+36,Jamie Jones,Wigan,30,12,1080,33,2,18,13,320,79,195,46,0,6.5
+37,Christian Walton,Wigan,23,34,3060,82,4,54,24,921,251,573,92,5,6.49
+38,Kristoffer Nordfeldt,Swansea,30,22,1913,43,3,29,11,724,128,123,459,14,6.45
+39,Scott Carson,Derby,33,30,2700,70,5,38,27,998,213,365,412,8,6.44
+40,Connal Trueman,Birmingham,23,2,180,5,1,4,0,49,19,28,2,0,6.43
+41,Mark Bunn,Aston Villa,34,1,90,4,1,2,1,28,9,18,1,0,6.41
+42,Daniel Bentley,Brentford,26,33,2955,77,1,44,32,1068,221,441,402,4,6.4
+43,Jordan Archer,Millwall,26,24,2160,47,2,24,21,567,189,316,61,1,6.39
+44,Kiko Casilla,Leeds,32,17,1530,36,1,21,14,488,76,105,298,9,6.37
+45,Vito Mannone,Reading,31,6,540,17,1,10,6,166,36,86,44,0,6.36
+46,Ben Amos,Millwall,29,12,1080,23,1,16,6,250,100,139,11,0,6.29
+47,Adam Federici,Stoke,34,1,90,1,0,0,1,21,1,1,19,0,6.26
+48,Chris Maxwell,Preston,28,8,705,23,1,10,12,221,58,140,23,0,6.25
+49,Bartosz Bialkowski,Ipswich,32,28,2520,74,4,45,25,883,250,496,135,2,6.17
+50,Lovre Kalinic,Aston Villa,29,7,586,19,4,7,8,188,36,95,56,1,6.16
+51,Lewis Price,Rotherham,35,1,90,2,0,1,1,25,10,13,2,0,5.89
+52,Matt Ingram,Queens Park Rangers,25,4,360,9,0,4,5,120,22,65,32,1,5.44
